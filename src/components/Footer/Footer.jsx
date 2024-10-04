@@ -15,7 +15,7 @@ const Footer = () => {
             <ul>
                 <li className='my-2'>Company</li>
                 <li className='my-2'>Support</li>
-                <li className='my-2'>Help</li>
+                <li className='my-2'>Help222</li>
             </ul>
             <ul>
                 <li className='my-2'>Facebook</li>
